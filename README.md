@@ -1,3 +1,14 @@
-## Решение тестовых задач из репозитория [Хекслет](https://github.com/Hexlet/ru-test-assignments?tab=readme-ov-file)
+# Валидация формы (Тестовое задание - [23 Devs](https://cloud.mail.ru/public/KN2F/TW4dPYs6n))
 
-1. Todo List - https://github.com/SplitCode/TestTasks/tree/feature/todo-list
+## Функционал:
+
+Реализована html-страница с формой регистрации. Список полей формы:
+
+- Имя;
+- Фамилия;
+- Email;
+- Пароль;
+- Подтверждение пароля;
+- Дата рождения.
+
+Реализовать валидация полей формы средствами Javascript.
